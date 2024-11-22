@@ -1,0 +1,31 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://DamilolaIfe.github.io/Patientnarratives/patients-narratives-/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "Patients narratives " ] },
+    "items": [
+      {
+        "id": "https://DamilolaIfe.github.io/Patientnarratives/patients-narratives-/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 1102.0,
+        "items": [
+          {
+            "id": "https://DamilolaIfe.github.io/Patientnarratives/patients-narratives-/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://DamilolaIfe.github.io/Patientnarratives/patients-narratives-/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://m.youtube.com/watch?v=Dzgl93T2qPg",
+                    "duration": 1102.0
+                },
+                "target": "https://DamilolaIfe.github.io/Patientnarratives/patients-narratives-/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
