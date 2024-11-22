@@ -1,0 +1,9 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://example.com/collection.json",
+    "type": "Collection",
+    "label": { "en": [ "Listening to Healing: Amplifying Cancer Patient's Narratives " ] },
+    "summary": { "en": [ "This project captures cancer patient narratives and their experiences right from the moment they were diagnosed with Cancer. Cancer here is not restricted to a particular one. Every cancer case is zoomed in on. " ] },
+    "items": [
+    ]
+}
