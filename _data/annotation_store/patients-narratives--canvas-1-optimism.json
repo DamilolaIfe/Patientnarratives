@@ -1,0 +1,39 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://DamilolaIfe.github.io/Patientnarratives/annotations/patients-narratives--canvas-1-optimism.json",
+  "type": "AnnotationPage",
+  "label": "Optimism",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "patients-narratives--canvas-1-optimism-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "It's almost a couple of years now and things are going well. ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://DamilolaIfe.github.io/Patientnarratives/patients-narratives-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://DamilolaIfe.github.io/Patientnarratives/patients-narratives-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "22.0"
+        }
+      }
+    }
+  ]
+}

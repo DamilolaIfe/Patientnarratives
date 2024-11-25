@@ -8,6 +8,56 @@
         "id": "https://DamilolaIfe.github.io/Patientnarratives/patients-narratives-/canvas-1/canvas",
         "type": "Canvas",
         "duration": 1103.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://DamilolaIfe.github.io/Patientnarratives/annotations/patients-narratives--canvas-1-optimism.json",
+            "label": {
+              "none": ["Optimism"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://DamilolaIfe.github.io/Patientnarratives/annotations/patients-narratives--canvas-1-comment.json",
+            "label": {
+              "none": ["Comment"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://DamilolaIfe.github.io/Patientnarratives/annotations/patients-narratives--canvas-1-journey-.json",
+            "label": {
+              "none": ["Journey "]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://DamilolaIfe.github.io/Patientnarratives/annotations/patients-narratives--canvas-1-healthcare-.json",
+            "label": {
+              "none": ["Healthcare "]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://DamilolaIfe.github.io/Patientnarratives/annotations/patients-narratives--canvas-1-family.json",
+            "label": {
+              "none": ["Family"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://DamilolaIfe.github.io/Patientnarratives/annotations/patients-narratives--canvas-1-comment-.json",
+            "label": {
+              "none": ["Comment "]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://DamilolaIfe.github.io/Patientnarratives/patients-narratives-/canvas-1/paintings",

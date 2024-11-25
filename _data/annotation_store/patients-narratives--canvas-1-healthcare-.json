@@ -1,0 +1,39 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://DamilolaIfe.github.io/Patientnarratives/annotations/patients-narratives--canvas-1-healthcare-.json",
+  "type": "AnnotationPage",
+  "label": "Healthcare ",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "patients-narratives--canvas-1-healthcare--annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "We drove over to the emergency room",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://DamilolaIfe.github.io/Patientnarratives/patients-narratives-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://DamilolaIfe.github.io/Patientnarratives/patients-narratives-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "92.0"
+        }
+      }
+    }
+  ]
+}
