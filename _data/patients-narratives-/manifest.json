@@ -7,7 +7,7 @@
       {
         "id": "https://DamilolaIfe.github.io/Patientnarratives/patients-narratives-/canvas-1/canvas",
         "type": "Canvas",
-        "duration": 1102.0,
+        "duration": 1103.0,
         "items": [
           {
             "id": "https://DamilolaIfe.github.io/Patientnarratives/patients-narratives-/canvas-1/paintings",
@@ -19,7 +19,7 @@
                 "motivation": "painting",
                 "body": {
                   "id": "https://m.youtube.com/watch?v=Dzgl93T2qPg",
-                    "duration": 1102.0
+                    "duration": 1103.0
                 },
                 "target": "https://DamilolaIfe.github.io/Patientnarratives/patients-narratives-/canvas-1/canvas"
               }
