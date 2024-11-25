@@ -1,4 +1,4 @@
-Start time,End Time,Annotation  ,Layer
+Start time,End time,Annotation  ,Layer
 0:05,0:05 - 0:09,"In this late summer of 2022, I was diagnosed wth multiple myeloma",Medical journey 
 0:05,0:05 - 0:09,"Patient narrates in shaky voice and seem to be swallowing hard 
 (Idomtically) ",Tone(Emotional)
@@ -10,19 +10,9 @@ going quite well. ",Tone (Optimistic)
 best of it as we can. ", Family
 1:32,1:32 - 1:35,"So, finnally about 5:30pm in the morning, we drove over to the 
 emergency room?",Access to healthcare 
-5:14,5:14 - 5:25,"…and this is [how] the fellow puts it, this is going to be end up being what causes yor death. It really mesed with my head. It did. You know having a full life of of good health and somebody telling you that,you know, this isn't going to last much longer",Tone(Anxiety)
+5:14,5:14 - 5:25,"?and this is [how] the fellow puts it, this is going to be end up being what causes yor death. It really mesed with my head. It did. You know having a full life of of good health and somebody telling you that,you know, this isn't going to last much longer",Tone(Anxiety)
 9:19,9:19 - 9:22,"Video shows patient in the bus, going for second Biopsy. ",Comments
 18:01,18:01 - 18:04,"You know, if it hadn't been for my wife helping me with these things, 
 I don't know what I would have done.",Family
 18:08,18:08 - 18:11,"You've got, you've got to look at, look for hope, and you've got to 
 look for help.",Tone(Hopeful)
-,,,Family
-,,,Emotional impact
-,,,Mental health
-,,,Tone (Emotional)
-,,,Context (Relevant backgrounfd information 
-,,,Tone (Anxiety) 
-,,,Quotes
-,,,Effects 
-,,,Strength
-,,,Support
